@@ -18,7 +18,8 @@ A: This machine is not only a full desktop computer, capable of running full CAD
 
 Q: What is the purpose of the Eden I?
 ---
-A: The main purpose of the Eden3D BlueBox is for the 3D printer to allow for local pickup, without being present when the user is ready to pickup. This helps in both coordination between the user and 3D printer to expedite the delivery and payment process in a secure manner. 
+A: The main purpose of the Eden I is increased productivity of turning your thoughts into things. By reducing the unecessary components to turn an idea into a finished 3D printed product, we greatly enhance your output value by compressing this workflow into one location, on one device. Think, design, slice, print, share and even recieve Bitcoin fro your work, all on one single device. 
+This is the Real Money Printer.  
 
 
 Q: How stupid. Why would I want a computer and a 3D printer in one!?
