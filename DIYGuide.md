@@ -27,24 +27,23 @@ Source all necessary components:
 
 -----------------------------------------------
 # FAQ
-Q: What is the BeingDisplay?
+Q: What is the Eden I?
 ---
-A: BeingDisplay is a 3D printed case, holding a single-board computer with an attached hologram-like 3D display.
+A: The Eden I is our flagship product, the first of it's kind. The Eden I is a multi-dimensional full desktop computer. A 4-dimentional cube (tesseract), to be more specific. 
 
-Q: What does the BeingDisplay do?
+Q: What does the Eden I?
 ---
-A: This hologram-like device is running a full bitcoin & lightning node with displaying, as a hologram, any images videos and CAD files that you are preparing to 3D print. This device is designed to be a hologram display personal server accompanied with your 3D printer.
+A: This machine is not only a full desktop computer, capable of running full CAD and intensive graphics programs, surfing the web and more. This machine is also a full 3D printer on the inside 
 
-Q: What is the purpose of the BeingDisplay?
+Q: What is the purpose of the Eden I?
 ---
-A: The main purpose of this device is to act as a personal server, accompaning your 3D printer which features a 3D hologram-like display, showing you a "print preview" mode, in full 3D-like display before you begin to 3D print said object. This also acts as a full bitcoin & lightning node to connect to. 
+A: The main purpose of the Eden I is increased productivity of turning your thoughts into things. By reducing the unecessary components to turn an idea into a finished 3D printed product, we greatly enhance your output value by compressing this workflow into one location, on one device. Think, design, slice, print, share and even recieve Bitcoin fro your work, all on one single device. 
+This is the Real Money Printer.  
 
-[In future release versions, this microSD card will become more useful with on-device features, without having to remove the hard drive.]
 
-Q: How stupid. Why would I want a bitcoin node with a display next to my 3D printer!?
+Q: How stupid. Why would I want a computer and a 3D printer in one!?
 ---
-A: Why wouldn't you want to see what you are about to print, before you print it, IN 3D HOLOGRAM-LIKE FORM? This was designed by us, for us. We are simply sharing it with the world and excited to recieve any feedback to make the proper improvments where necessary in upcoming versions.  Thank you for any constructive criticism and feedback. It's greatly appreciated. 
-
+A: Why wouldn't you want to use the Eden I to manifest your thoughts into things in one location, on one device? We believe this helps reduce the complex workflow of designing and therefore 3D printing your creation. This was designed by us, for us. We are simply sharing it with the world and excited to recieve any feedback to make the proper improvments where necessary in upcoming versions. We're most excited for the self-hosted distributed network option to download in the coming months.  Thank you for any constructive criticism and feedback. It's greatly appreciated. 
 
 
 ---------------------------------------------------------
