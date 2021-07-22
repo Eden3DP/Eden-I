@@ -1,7 +1,26 @@
-# BeingDisplay
-Hardware: This is a 3D Hologram-like Display, 3D printed node case
-
+# Eden I DIY guide
+A step-by-step guide to build your own Eden I 3D Printer, the multi-dimentional computer
+------
 [images uploaded soon]
+
+------
+# Step 0
+Hardware prerequisites:
+
+• [See our BOM (Bill of Materials) list here: ]
+
+• 
+
+------
+# Step 1
+Source all necessary components:
+
+• Review that you have all necessary hardware and software components ready to begin assembly [viewable above in 'Step 0']
+
+• 
+
+• 
+
 
 
 
